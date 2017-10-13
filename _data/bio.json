@@ -2,10 +2,10 @@
   "basics": {
     "name": "Simon Engler",
     "label": "Student",
-    "picture": "https://simontengler.github.io/techfolio/images/simonengler.jpeg",
+    "picture": "https://simonengler.github.io/images/simonengler.jpeg",
     "email": "simon.engler@hawaii.edu",
     "phone": "808-221-3787",
-    "website": "https://simontengler.github.io",
+    "website": "https://simonengler.github.io",
     "summary": "I am studying for a PhD in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "SimonTEngler",
-        "url": "http://github.com/simontengler"
+        "username": "SimonEngler",
+        "url": "http://github.com/simonengler"
       },
       {
         "network": "linkedin",
