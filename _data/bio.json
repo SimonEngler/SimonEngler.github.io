@@ -165,14 +165,13 @@
     },
     {
       "company": "Canadian Forces",
-      "position": "Combat Engineer (Cpl Retired)",
+      "position": "Combat Engineer (Sapper)",
       "website": "http://www.forces.gc.ca",
       "startDate": "2005-01-15",
       "endDate": "2010-13-10",
       "summary": "Combat Engineer in the Canadian Forces. Worked Improvised Explosive Device (IED) hunter." ,
       "highlights": [
-       "11-month tour in Kandahar Afghanistan"
-      ]
+       ]
     },
     {
       "company": "Terradox Corp.",
@@ -181,10 +180,9 @@
       "endDate": "2005-01-15",
       "summary": "Developed software for a GUI interface and GPS guided agricultural systems",
       "highlights": [
-        "Programmed embedded software for controlling a tractor steering system"
       ]
     },
-     {
+    {
       "company": "Environment Canada",
       "position": "Research Internship",
       "website": "http://ec.gc.ca",
@@ -194,8 +192,7 @@
       "highlights": [
       ]
     }
-  
-],
+  ],
 "awards": [
     {
       "title": "Best Student Paper",
