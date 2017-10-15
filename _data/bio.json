@@ -104,7 +104,7 @@
     {
      "institution": "University of Amsterdam",
       "area": "Computational Physics",
-      "studyType": "Graduate",
+      "studyType": "Certificate",
       "startDate": "2001-09-15",
       "endDate": "2003-06-15",
       "gpa": "",
@@ -123,6 +123,46 @@
     }
     ],
   "work": [
+       {
+      "company": "University of Hawaii at Manoa",
+      "position": "Graduate Teaching Assistant",
+      "website": "http://www.hawaii.edu",
+      "startDate": "2017-09-01",
+      "endDate": "Current",
+      "summary": "TA for ISC 419 Machine Learning and ICS 349 Software Engineering I",
+      "highlights": [
+      ]
+    },
+       {
+      "company": "University of Hawaii at Manoa",
+      "position": "Graduate Research Assistant",
+      "website": "http://www.hawaii.edu",
+      "startDate": "2014-01-01",
+      "endDate": "2017-08-31",
+      "summary": "RA to Dr. Binsted helping with research and operations of the HI-SEAS experiment",
+      "highlights": [
+      ]
+    },
+       {
+      "company": "University of Hawaii at Manoa",
+      "position": "Crew Engineer",
+      "website": "http://www.hi-seas.org",
+      "startDate": "2012-08-01",
+      "endDate": "2013-08-01",
+      "summary": "Selected out of 700 applcants to be the Crew Engineer in the first Hawaii Space Exploration Analog and Simulation (HI-SEAS) for a four month isolation mission",
+      "highlights": [
+      ]
+    },
+     {
+      "company": "Carnegie Mellon Robotics Institute",
+      "position": "Visiting Research Scholar",
+      "website": "http://www.ucalgary.ca/news/utoday/june13-2012/prototype",
+      "startDate": "2012-06-01",
+      "endDate": "2010-09-01",
+      "summary": "Carnegie Mellon University working on Zoë a Mars rover prototype developing interface software",
+      "highlights": [
+      ]
+    },
     {
       "company": "Canadian Forces",
       "position": "Combat Engineer (Cpl Retired)",
@@ -144,8 +184,19 @@
         "Programmed embedded software for controlling a tractor steering system"
       ]
     }
-  ],
-  "awards": [
+     {
+      "company": "Environment Canada",
+      "position": "Research Internship",
+      "website": "http://ec.gc.ca",
+      "startDate": "2000-05-01",
+      "endDate": "2017-08-31",
+      "summary": "Summer student at Environment Canada over three consecutive summers 1998,1999,2000 programming an emergency response oil spill simulation software",
+      "highlights": [
+      ]
+    },
+  
+],
+"awards": [
     {
       "title": "Best Student Paper",
       "date": "2011",
