@@ -16,7 +16,25 @@
       "region": "Hawaii"
     }
    },
-     
+       "interests": [
+    {
+      "name": "distributed computing",
+      "keywords": [
+        "spark",
+        "kafka"
+      ]
+    },
+    {
+      "name": "data science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "signal classification",
+      "keywords": [
+      ]
+    }
+  ],
     "profiles": [
       {
         "network": "github",
