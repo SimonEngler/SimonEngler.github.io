@@ -1,5 +1,6 @@
 {
-  "basics": {
+  "basics": [ 
+   {
     "name": "Simon Engler",
     "label": "PhD Student",
     "picture": "https://simonengler.github.io/images/simon.png",
@@ -14,6 +15,8 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
+   }
+   ],
     "profiles": [
       {
         "network": "github",
@@ -35,7 +38,6 @@
         "username": "simon.engler",
         "url": "http://instagram.com/simon.engler"
       }
-
   ],
   "education": [
     {
