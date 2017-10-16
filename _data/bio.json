@@ -1,5 +1,5 @@
 {
-  "basics": [ 
+  "basics":  
    {
     "name": "Simon Engler",
     "label": "PhD Student",
@@ -15,7 +15,8 @@
       "countryCode": "USA",
       "region": "Hawaii"
     }
-   ],
+   }
+     
     "profiles": [
       {
         "network": "github",
