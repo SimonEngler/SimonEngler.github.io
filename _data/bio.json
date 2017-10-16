@@ -37,49 +37,6 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Robotic exploration",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "computational physics",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "FORTRAN",
-        "Perl",
-        "Python"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "Eclipse",
-        "Android App Development",
-        "Unreal III game engine"
-      ]
-    }
   ],
   "education": [
     {
