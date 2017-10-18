@@ -9,10 +9,6 @@ labels:
 
 *This page presents evidence of my scholarly ability in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence of ability to identify, critically analyze, and research a problem, as well as written communication skills.*
 
-## Literature Review
-
-*Data*
-Abstract: 
 
 ## Publications
 **Planetary Exploration Habitat Energy Requirements and Forecasting**. *Engler S., Binsted K., Leung H.*, International Astronautical Congress, IAC-17,C3,3,6,x40041, Advanced Space Power Technologies and Concepts, (Sept 2017).
