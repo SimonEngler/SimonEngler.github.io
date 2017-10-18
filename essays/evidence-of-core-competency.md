@@ -11,7 +11,7 @@ labels:
 
 ## Evidence of MS degree
 
-**MSc Degree**,*Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
+**Masters of Science in Electrical and Computer Engineering**,*Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
 
 ## University of Hawaii Graduate Courses (GPA 3.5)
 - ICS 321 Data Storage & Retrieval  
