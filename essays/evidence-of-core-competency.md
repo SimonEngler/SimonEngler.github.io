@@ -11,7 +11,7 @@ labels:
 
 ## Evidence of MS degree
 
-**MSc Degree**, University of Calgary, 2017, Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
+**MSc Degree**,*Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
 
 ## University of Hawaii Graduate Courses (GPA 3.5)
 - ICS 321 Data Storage & Retrieval  
@@ -20,7 +20,7 @@ labels:
 - CS 699 Directed Reading or Research  
 
 ## University of Calgary Graduate Courses (GPA 3.5)
-- ASPH 607 Advanced Observational Astrophysics
+-  ASPH 607 Advanced Observational Astrophysics
 -  CPSC 609 Multi-Agent Systems
 -  ENEL 607 Research Seminar
 -  ENEL 697 Digital Image Processing
