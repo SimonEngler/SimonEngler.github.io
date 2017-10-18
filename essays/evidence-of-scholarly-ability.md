@@ -11,46 +11,79 @@ labels:
 
 ## Literature Review
 
-*Data Management for Distributed Sensor Networks: A Literature Review*
-Anthony Christe. CSDL Tech Report CSDL-17-01.
+*Data
 
-Abstract: Sensor networks are spatially distributed autonomous sensors that monitor the physical world around them and often communicate those reading over a network to a server or servers. Sensor networks can benefit from the generally ``unlimited resources'' of the cloud, namely processing, storage, and network resources. This literature review surveys the major components of distributed data management, namely, cloud computing, distributed persistence models, and distributed analytics.
 
-[Full Paper](http://csdl.ics.hawaii.edu/techreports/2017/17-01/17-01.pdf)
+Abstract: 
 
 ## Publications
+*Planetary Exploration Habitat Energy Requirements and Forecasting*. Engler S., Binsted K., Leung H., International Astronautical Congress, IAC-17,C3,3,6,x40041, Advanced Space Power Technologies and Concepts, (Sept 2017).
 
-*OPQ Version 2: An Architecture for Distributed, Real-Time, High Performance Power Data Acquisition, Analysis, and Visualization*. Anthony Christe, Sergey Negrashov, Philip Johnson, Dylan Nakahodo, David Badke and David Aghalarpour.
-Accepted for publication at the 7th Annual IEEE International Confernce on CYBER Technology in Automation, Control, and Intelligent Systems (IEEE-CYBER 2017) (July 2017).
+Abstract: Travel to other planetary bodies represents a major challenge to resource management. Previous
+manned exploration missions of long duration were resupplied with food, water, and air as required with
+regular resupplies. Manned missions traveling to other planetary bodies will have duration of years, with
+little to no possibility of resupply. Consequently, the monitoring and forecasting of resource consumption
+is a mission critical capability. The Hawaii Space Exploration Analog and Simulation (HI-SEAS), a long
+duration planetary analog simulation, has recently completed its fifth long term isolation mission gathering
+energy, food, and water demands for a six manned planetary habitat crew. Energy consumption data from
+five of the simulations are analyzed and discussed showing unique data sets for energy, food, and water
+demands of a six man long term planetary mission. A novel method for forecasting energy consumption
+will also be presented that incorporates the emotional state of the habitat crew. Gathered data show
+that environments can be heavily influenced by the actions of a single crew member resulting in dramatic
+changes in consumption, throwing forecasting models to the point of total failure. Previous work has shown
+that the inclusion of the daily astronaut activities and psychological state allow for higher accuracy in
+forecasting for longer duration. Currently psychological surveys in the form of Positive and Negative
+Affect Schedule (PANAS), and a generalized artificial neural-modulation method are used to incorporate
+emotional response into machine learning forecasting methods. Using these lessons and developments,
+a large scale smart habitat control and forecasting system will be proposed that will monitor, control,
+and forecast habitat resources for manned missions. This new system will require the incorporation of
+psychological and physiological data from crew members, crew activities, and schedule.
 
-Abstract: OpenPowerQuality (OPQ) is a framework that supports end-to-end capture, analysis, and visualizations of distributed real-time power quality (PQ) data. Version 2 of OPQ builds on version 1 by providing higher sampling rates, optional battery backup, end-to-end security, GPS synchronization, pluggable analysis, and a real-time visualization framework. OPQ provides real-time distributed power measurements which allows users to see both local PQ events and grid-wide PQ events. The OPQ project has three principal components: back-end hardware for making power measurements, middleware for data acquisition and analysis, and a front-end providing visualizations. OPQBox2 is a hardware platform that takes PQ measurements, provides onboard analysis, and securely transfers data to our middleware. The OPQ middleware performs filtering on the OPQBox2 sensor data and performs high-level PQ analysis. The results of our PQ analysis and real-time state of the sensor network are displayed using OPQView. We've collected distributed PQ data from locations across Oahu, Hawaii and have demonstrated our ability to detect both local and grid-wide power quality events.
+I did the vast majority of contribution to this publication relying on my co-authors for general guidance.
 
-*OpenPowerQuality: An Open Source Framework for Power Quality Collection, Analysis, Visualization, and Privacy*.
-Anthony Christe, Sergey Negrashov, Philip Johnson. 
-In Proceedings of the Seventh Conference on Innovative Smart Grid Technologies (ISGT2016) (September 2016).
+[Full Paper](https://iafastro.directory/iac/paper/id/40041/summary/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
 
-Abstract: As power grids transition from a centralized distribution model to a distributed model, maintaining grid stability 
-requires real-time power quality (PQ) monitoring and visualization. As part of the Open Power Quality (OPQ) project, we 
-designed and deployed a set of open source power quality monitors and an open source cloud-based aggregation and 
-visualization system built with the utility customer in mind. Our aim is to leverage a flexible privacy model combined 
-with inexpensive and easy to use PQ meters in order to deploy a high density power quality monitoring network across the
-Hawaiian islands. In this paper we describe OPHub, a privacy focused open source PQ visualization along with results of 
-a small scale deployment of our prototype PQ meter across the island of Oahu. Our results demonstrate that OPQ can 
-provide useful power quality data at an order of magnitude less cost than prior approaches.
+*Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
 
-My specific contributions to this paper involve the discussions on privacy, visualizations, and sofwtware development.
+Abstract: Human travel to other planetary bodies will have duration of years, with little to no possibility
+of resupply. Consequently, the monitoring and forecasting of resource consumption is a mission critical capability. The actions of a single crew member can heavily influence small environments and throw forecasting models off to the point of total failure. It is hypothesized that the inclusion of variables accounting for daily astronaut activities and psychological state will allow for higher accuracy in forecasting. Utilizing consumption data from the Hawaii Space Exploration Analog Simulation in the form of electricity, and psychological data from the Positive and Negative Affect Schedule, a generalized artificial neural-modulation method is introduced which allows the incorporation of emotional response into machine learning applied to forecasting. It is found that the changes in the activation functions correlate to observed crew behavior, and show significant improvement of forecasting results.
 
-[Full Paper](http://csdl.ics.hawaii.edu/techreports/2016/16-02/16-02.pdf)
+I was the main contributor to this Masters thesis under the guidanance of my co-supervisors, Prof. Binsted, and Dr. Leung. 
+
+[Full Paper](http://theses.ucalgary.ca)
+
+*Towards Forecasting Resource Consumption In Mars Analog Simulations*, Engler S., Caraccio A., Binsted K., Leung H., Poster presented at The 8th Annual International Mars Conference, CalTech, Pasadena, California, (July 2017)
+
+I was the main contributor to this poster creating the poster and collected the majority of the data. My co-author Carracio, A. contributed some data and did some editing to the poster. Dr. Binsted, and Dr. Leung provided guidance.
+
+[Full Paper](https://www.dropbox.com/s/uhb8p2xci0bce4k/Poster_SimonEngler_48x36.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
+
+*Testing Robotic Companions on a Simulated Mission to Mars*, Engler S., IEEE Spectrum online, (2013)
+
+An online article outlining my ongoing robotic companion experiment.
+
+[Full Paper](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/testing-robotic-companions-on-a-simulated-mission-to-mars?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcuzVJZPcTpuRFD1pwbs3vA%3D%3D)
+
+*Planetary Habitat Systems Monitoring On a Mars Analog Mission*, Engler S., Abrimov O., Binsted K., Hunter J., Leung H., 100 Year Starship Symposium: Pathway to the Stars, Footprints on Earth, Houston, TX. (2013)
+
+Abstract: The NASA funded HI-SEAS (Hawaii Space Exploration Analog and Simulation) is a planetary surface exploration analog site at ~8500 feet on the Mauna Loa side of the saddle area on the Big Island of Hawaii. This first mission will involve six astronaut-like (in terms of education, experience, and attitude) crew members living in the habitat for 120 days under Mars-exploration conditions. The habitat itself has been outfitted with a variety of real time sensors for water, heat, and energy consumption. This data shows a variety of traits within habitat living conditions that can be utilized for energy and water conservation. This mission started in February and will conclude on August 13th. Data of this type will give a picture of what resources are required for exploration or colonization on other planetary bodies. Future steps for habitat monitoring will be presenting outlining a data fusion model. This model will incorporate fuzzy logic for a centralized intelligent monitoring system.
+
+Primary contribution come from myself where I reduced the bulk of the data and wrote the paper, and presented. Co-author Abramov A. contributed some data and photos. Dr. Binsted, Dr. Hunter, and Dr. Leung provided guildance in the data reduction.
+
+[Full Paper](https://www.amazon.com/dp/0990384004/ref=cm_sw_su_dp?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
+
+*Prairie Dog II: The evolution of an Unmanned Ground Vehicle*, Engler S., Leung H., Unmanned Systems Canada Conference - Canada at the Civil and Commercial Forefront, Halifax, (Nov 2011)
+
+I was the dominant author on this paper having conducted all the research, experimentation, writing and presenting. Dr. Leung contributed with support and guidance.
+
+Abstract: In a military deployment to Afghanistan in 2009, theauthor built a small UGV, which was nicknamed thePrairie Dog. The Prairie Dog UGV was built withoff the shelf parts and open-source software. InAfghanistan field trials and operational testing ofUGV prototype was conducted. The Prairie DogUGV was evaluated for its compatibility to workwithin the combat environment seen in Afghanistan.The original R&D phase of this robotic platform,and the lessons learned and experiences using theUGV in Afghanistan were utilized in thedevelopment of the second generation of this UGV.The Prairie Dog II UGV, started construction inearly 2011. This new UGV is geared towardsprivate security and experimental R&D.Implementation of new sensors and artificialintelligence developed from the lessons learned inthe Afghanistan application allow for semi-autonomous control for this new UGV. Theintegration of the Robot Operating System (ROS),Microsoft Kinect sensor, and navigationalcapabilities of the UGV will be outlined. Utilizingthe experiences gained from the previous UGVplatform, a road ahead for military and civilianapplications of UGV will be discussed.
+
+[Full Paper](https://www.dropbox.com/s/ydkoneso2pgm5ul/PrairieDogEvolution.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
+
+*Benchmarking the 2D lattice Boltzmann BGK model*, Engler S., Short communication. Amsterdam Center for Computational Science, Amsterdam, The Netherlands, (2001)
+
+Abstract: A 2D Lattice Boltzmann BGK (LBGK) model on a D2Q9 lattice was constructed and tested foraccuracy in different physical situations. An introduction to the LBGK method is given followed by a detailed outline of the computer model construction.  Due to thefact that LBGK models arerestricted to low Reynolds numbers only laminar fluid flow is examined here. The model was tested for accuracy by comparing model output to the analytical solution of flow lines past a right circular cylinder. Next, plane Poiseuille flow through a 2D channel is compared to the analytical fluid flow and pressure solutions.
+
+[Full Paper](https://www.dropbox.com/s/xj76p81nijmznl4/BGK_handin.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
 
 ## Technical Reports
-
-*OPQ Cloud: A scalable software framework for the aggregation of distributed power quality data*
-Anthony Christe.
-April, 2014. CSDL Tech Report CSDL-14-04.
-
-Abstract: Power quality issues can be caused in a variety of situations. Voltage fluctuations, frequency fluctuations, and 
-harmonics are all power quality issues which can be caused by weather, high penetration of renewables, man-made issues, 
-or other natural phenomena. We designed a software framework which can aggregate crowdsourced distributed power quality 
-measurements in order to study power quality issues over a dense geographic area.
-
-[Full Paper](https://github.com/csdl/techreports/raw/master/techreports/2014/14-04/14-04.pdf)
