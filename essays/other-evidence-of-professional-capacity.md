@@ -17,7 +17,9 @@ labels:
 
 ## Research
 
-### Robotic Companion Studey
+### HI-SEAS
+
+### Robotic Companion Study
 
 ### Centaur Sentry Robot
 
