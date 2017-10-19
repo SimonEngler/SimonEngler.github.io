@@ -2,12 +2,12 @@
 layout: essay  
 type: essay  
 title: Evidence of Core Competency  
-date: 2016-08-29  
+date: 2017-10-18  
 labels:
   - PhD Portfolio
 ---
 
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio).*
 
 ## Evidence of MS degree
 
