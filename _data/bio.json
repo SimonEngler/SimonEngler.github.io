@@ -18,19 +18,19 @@
    },
        "interests": [
     {
-      "name": "distributed computing",
+      "name": "Machine Learning",
       "keywords": [
         "spark",
         "kafka"
       ]
     },
     {
-      "name": "data science",
+      "name": "Robotic Exploration",
       "keywords": [
       ]
     },
     {
-      "name": "signal classification",
+      "name": "Aritificial Intelligence",
       "keywords": [
       ]
     }
