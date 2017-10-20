@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/hexaRobot.jpg
+title: Robotic Companions
 permalink: projects/roboticCompanion
 date: 2017
 labels:
