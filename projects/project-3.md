@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/hiseasSolarPanels.jpg
 title: Forecasting HI-SEAS Energy Consumption
 permalink: projects/consumpion
 date: 2017
