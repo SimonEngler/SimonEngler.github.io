@@ -18,5 +18,5 @@ The HI-SEAS site has Mars-like geology which allows crews to perform high-fideli
 
 I participated in the first mission as a test subject acting as the HI-SEAS Crew Engineer for four months. Since then I have helped organize, handle logistics, and mission operations while conducting experiements of my own. My research into energy consumption forecasting comes from the sensors of the habitat that I used to complete my Masters degree. I am basing my PhD work on life inside the habitat by taking advantage of the qualative and psycological data.
 
-<div class="ui embed" data-source="youtube" data-id="v=1GIyUFad8_E" >
+<div class="ui embed" data-source="youtube" data-id="1GIyUFad8_E" >
 </div>
