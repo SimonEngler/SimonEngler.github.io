@@ -13,14 +13,13 @@ summary: Experiment conducted for HI-SEAS examining Robotic Companions for Long 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/CompareRomiboPleo.png">
+  <img class="ui image" src="../images/IMG_1827.JPG">
+  <img class="ui image" src="../images/Pleo_Simon.jpg">
+  <img class="ui image" src="../images/RomiboImage.JPG">
 </div>
 
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
