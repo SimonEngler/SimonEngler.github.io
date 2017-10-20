@@ -5,7 +5,10 @@ image: images/hiseasSolarPanels.jpg
 title: Forecasting HI-SEAS Energy Consumption
 permalink: projects/consumpion
 date: 2017
-labels: Machine Learning, Artificial Intelligence, Forecasting.
+labels: 
+- Machine Learning
+- Artificial Intelligence
+- Forecasting
 summary: Energy consumption is forecast within the HI-SEAS habitat.
 ---
 An ongoing project with HI-SEAS I have been using various Machine Learning methods to forecast energy consumption within the habitat. This has provided a lot of insight into how the crew will be utilizing energy, and how that energy usage changes over time. With this this project I have published three papers, one poster at conferences, and my Masters thesis. My most significant finding was how energy consumption changes with the crew mood. More importantnly I implemented a novel way to account for emotional response within machine learning methods. 
