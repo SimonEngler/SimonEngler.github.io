@@ -11,6 +11,10 @@ labels:
 
 summary: Experiment conducted for HI-SEAS examining Robotic Companions for Long Term Isolation Space Missions
 ---
+<div class="ui small rounded images">
+<img class="ui image" src="../images/hexaRobot.jpg">
+ </div>
+
 Imagine living for four months in total isolation with six other humans, all locked up in an advanced facility that simulates life on Mars. That was the goal of the Hawaii Space Exploration Analog and Simulation (HI-SEAS) project, and I was one of the lucky individuals to take part in this experiment. For the HI-SEAS application, each individual was expected to propose their own research project. I suggested a study in robotic companions as a method to reduce stress in an isolated environment. 
 
 
@@ -36,7 +40,6 @@ My project on the HI-SEAS mission was to design and program (mostly in C++) robo
 <div class="ui small rounded images">
 <img class="ui image" src="../images/CompareRomiboPleo.png">
  </div>
-
 
 
 
