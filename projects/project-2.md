@@ -6,6 +6,8 @@ title: HI-SEAS
 permalink: projects/HI-SEAS
 date: 2017
 labels:
+ - Mars Habitat
+ - Simulation
  
 summary: Hawaii Space Exploration Analog and Simulation (HI-SEAS) conducts long term isolation experiments under Mars-like conditions.
 ---
