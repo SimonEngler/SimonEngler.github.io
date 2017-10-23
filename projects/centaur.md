@@ -35,5 +35,8 @@ that location. The combination of such abilities on the Centaur UGV platform aug
 capabilities of private security personnel through a form of human-robot collaboration.
 
 
-<div class="ui embed" data-source="youtube" data-id="1GIyUFad8_E" >
+<div class="ui embed" data-source="youtube" data-id="j9eLN3pKPn8" >
+</div>
+
+<div class="ui embed" data-source="youtube" data-id="w2IxxW2S33I&t=9s" >
 </div>
