@@ -38,5 +38,5 @@ capabilities of private security personnel through a form of human-robot collabo
 <div class="ui embed" data-source="youtube" data-id="j9eLN3pKPn8" >
 </div>
 
-<div class="ui embed" data-source="youtube" data-id="w2IxxW2S33I&t" >
+<div class="ui embed" data-source="youtube" data-id="w2IxxW2S33I" >
 </div>
