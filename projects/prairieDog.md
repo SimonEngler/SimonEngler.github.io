@@ -24,7 +24,12 @@ conducted. A comparison of the performance of each UGV was conducted in an attem
 design points. Using the experience and data gathered from the trials TTP were derived for each of the
 operational applications. Finally, future requirements and a direction for further research and development are
 outlined.
+
+You can see the final report here: [UGV Field Trials Report](https://www.dropbox.com/s/jl5k0h59hyooafx/TrialsReport.pdf?dl=0).
+<hr>
+
 <img class="ui image" src="{{ site.baseurl }}/images/habitat/dog2.jpg">
+
 
 <div class="ui embed" data-source="youtube" data-id="x4gItjmDnqg" >
 </div>
