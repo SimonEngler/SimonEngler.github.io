@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dog3.jpg
+image: images/dog3.PNG
 title: Combat Field Trials of Unmanned Ground Vehicles
 permalink: projects/prairieDog
 date: 2017
@@ -11,7 +11,7 @@ labels:
   - C-IED
 summary: Prairie Dog Robotic platform
 ---
-<img class="ui image" src="{{ site.baseurl }}/images/habitat/dog1.png">
+<img class="ui image" src="{{ site.baseurl }}/images/habitat/dog1.PNG">
 
 Field Trials and operational testing of Unmanned Ground Vehicle (UGV) prototypes were conducted in
 Afghanistan. This project included the Miniature Unmanned Ground Vehicle (MUGV) prototype produced by
@@ -28,7 +28,7 @@ outlined.
 You can see the final report here: [UGV Field Trials Report](https://www.dropbox.com/s/jl5k0h59hyooafx/TrialsReport.pdf?dl=0).
 <hr>
 
-<img class="ui image" src="{{ site.baseurl }}/images/habitat/dog2.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/habitat/dog2.PNG">
 
 
 <div class="ui embed" data-source="youtube" data-id="x4gItjmDnqg" >
