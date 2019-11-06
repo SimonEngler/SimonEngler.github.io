@@ -99,8 +99,8 @@
       ]
     }
     ],
-   "publication" : [ 
-     { "title": "Planetary Exploration Habitat Energy Requirements and Forecasting",
+   "publications" : [ 
+     { "publications": "Planetary Exploration Habitat Energy Requirements and Forecasting",
        "author": "Engler S., Binsted K., Leung H.,",
        "journal": "International Astronautical Congress, IAC-17,C3,3,6,x40041",
        "date": "09-24-2017"
