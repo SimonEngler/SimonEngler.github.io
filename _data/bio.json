@@ -101,15 +101,96 @@
     ],
     "publications": [
     {
-      "name": "RadGrad: Removing the 'Extra' from Extracurricular to Improve Student Engagement, Retention, and Diversity",
+      "name": "HI-SEAS habitat energy requirements and forecasting",
       "type": "journal",
-      "author": "Philip M. Johnson, Carleton A. Moore, Peter Leong, Seungoh Paek",
-      "publisher": "Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020)",
-      "releaseDate": "March, 2020",
-      "website": "http://csdl.ics.hawaii.edu/techreports/2019/19-04/19-04.pdf",
+      "author": "Engler ST, Ansley B, Binsted K",
+      "publisher": "Acta Astronautica",
+      "releaseDate": "May 31, 2019",
+      "website": "https://doi.org/10.1016/j.actaastro.2019.05.049",
+      "summary": "Volume 162, 2019, Pages 50-55, ISSN 0094-5765,"
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
       "summary": ""
-    }
-     ],
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+   {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": " ",
+      "type": "journal",
+      "author": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
+    },  
+   ],
   "work": [
        {
       "company": "University of Hawaii at Manoa",
