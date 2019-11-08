@@ -208,7 +208,7 @@
     },
     {
       "name": "Unmanned Ground Vehicle Trials Kandahar Province",
-      "type": "journal",
+      "type": "techreport",
       "author": "Engler, S.T.",
       "publisher": "1 Combat Engineer Regiment, Edmonton, Canada",
       "releaseDate": "1st December 2009",
@@ -217,7 +217,7 @@
     },
     {
       "name": "Benchmarking the 2D lattice Boltzmann BGK model",
-      "type": "journal",
+      "type": "techreport",
       "author": "Engler, S.T.",
       "publisher": "Short communication. Amsterdam Center for Computational Science",
       "releaseDate": "10th September 2003",
