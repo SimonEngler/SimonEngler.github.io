@@ -99,6 +99,32 @@
       ]
     }
     ],
+   "awards": [
+    {
+      "title": "Best Student Paper",
+      "date": "2011",
+      "awarder": "Unmanned Systems Canada",
+      "summary": "Awarded best student paper at Unmanned Systems Canada Conference, Halifax, Canada"
+    },
+    {
+      "title": "Cheif of Land Staff Commendation",
+      "date": "2008",
+      "awarder": "General Leslie, Commander Canadian Army",
+      "summary": "For my work developing and coding a training computer game for the Army. Also for work depticting IED Tactical videos using AI bots in game engine"
+    },
+     {
+      "title": "Canadian Expeditionary Force Commanders Coin",
+      "date": "2009",
+      "awarder": "General Lessard, Commander Canadian Expedition Task Forces",
+      "summary": "For the development, construction, and field testing of the Prairie Dog robot in a combat environment in Afghanistan"
+    },
+       {
+      "title": "Combat Engineer Task Force Afghanistan Commander's Coin",
+      "date": "2009",
+      "awarder": "Colonel Gilmore, HQ5-09 Task Force Engineers Commander",
+      "summary": "Coin given to me by Colonel Gilmore, head of the Canadian Combat Engineers Afghanistan Task Force, for my work with the design, construction, testing, and implementation of the Prairie Dog C-IED robotic platform. Coins are given as recognition for outstanding service/performance in the Canadian Army at the discretion of the issuer."
+    }
+  ],
     "publications": [
     {
       "name": "HI-SEAS habitat energy requirements and forecasting",
@@ -267,32 +293,6 @@
       "summary": "Summer student at Environment Canada over three consecutive summers programming an emergency response oil spill simulation software",
       "highlights": [
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Best Student Paper",
-      "date": "2011",
-      "awarder": "Unmanned Systems Canada",
-      "summary": "Awarded best student paper at Unmanned Systems Canada Conference, Halifax, Canada"
-    },
-    {
-      "title": "Cheif of Land Staff Commendation",
-      "date": "2008",
-      "awarder": "General Leslie, Commander Canadian Army",
-      "summary": "For my work developing and coding a training computer game for the Army. Also for work depticting IED Tactical videos using AI bots in game engine"
-    },
-     {
-      "title": "Canadian Expeditionary Force Commanders Coin",
-      "date": "2009",
-      "awarder": "General Lessard, Commander Canadian Expedition Task Forces",
-      "summary": "For the development, construction, and field testing of the Prairie Dog robot in a combat environment in Afghanistan"
-    },
-       {
-      "title": "Combat Engineer Task Force Afghanistan Commander's Coin",
-      "date": "2009",
-      "awarder": "Colonel Gilmore, HQ5-09 Task Force Engineers Commander",
-      "summary": "Coin given to me by Colonel Gilmore, head of the Canadian Combat Engineers Afghanistan Task Force, for my work with the design, construction, testing, and implementation of the Prairie Dog C-IED robotic platform. Coins are given as recognition for outstanding service/performance in the Canadian Army at the discretion of the issuer."
     }
   ],
   "references": [
