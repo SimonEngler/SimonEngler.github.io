@@ -156,6 +156,14 @@
   ],
     "publications": [
     {
+      "name": "Mars habitat power consumption constraints, prioritization, and optimization",
+      "type": "journal",
+      "author": "Ansley, B., Engler, S.T., Binsted, K.",
+      "publisher": "Journal of Space Safety Engineering",
+      "releaseDate": "Oct 31st, 2019",
+      "website": "https://doi.org/10.1016/j.jsse.2019.10.006",
+    },
+    {
       "name": "HI-SEAS habitat energy requirements and forecasting",
       "type": "journal",
       "author": "Engler ST, Ansley B, Binsted K",
