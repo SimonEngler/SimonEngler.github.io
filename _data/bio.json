@@ -165,30 +165,39 @@
     {
       "name": "Mars Analog Simulation Field Testing of Unmanned Systems",
       "type": "conference",
-      "author": "",
-      "publisher": "",
-      "releaseDate": "",
+      "author": "Engler S.T., Binsted K.",
+      "publisher": "Unmanned Systems Canada Conference - Solutions for Emerging Markets, Ottawa",
+      "releaseDate": "9th November 2012",
       "website": "",
       "summary": ""
     },
     {
-      "name": " ",
-      "type": "journal",
-      "author": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
+      "name": "Prairie Dog II: The evolution of an Unmanned Ground Vehicle",
+      "type": "conference",
+      "author": "Engler S.T., Leung H.",
+      "publisher": "Unmanned Systems Canada Conference - Canada at the Civil and Commercial Forefront, Halifax",
+      "releaseDate": "9th November 2011",
+      "website": "https://www.dropbox.com/s/ydkoneso2pgm5ul/PrairieDogEvolution.pdf?dl=0",
       "summary": ""
     },
     {
-      "name": " ",
+      "name": "Unmanned Ground Vehicle Trials Kandahar Province",
       "type": "journal",
-      "author": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
+      "author": "Engler, S.T.",
+      "publisher": "1 Combat Engineer Regiment, Edmonton, Canada",
+      "releaseDate": "1st December 2009",
+      "website": "https://www.dropbox.com/s/jl5k0h59hyooafx/TrialsReport.pdf?dl=0",
       "summary": ""
-    },  
+    },
+    {
+      "name": "Benchmarking the 2D lattice Boltzmann BGK model",
+      "type": "journal",
+      "author": "Engler, S.T.",
+      "publisher": "Short communication. Amsterdam Center for Computational Science",
+      "releaseDate": "10th September 2003",
+      "website": "https://www.dropbox.com/s/xj76p81nijmznl4/BGK_handin.pdf?dl=0",
+      "summary": ""
+    }
    ],
   "work": [
        {
