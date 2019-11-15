@@ -11,7 +11,7 @@ labels:
 
 
 # Publications
-
+<hr>
 ## Masters Thesis
 
 **Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method**, *Engler S.*, Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
@@ -23,7 +23,7 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 [Full Paper](https://prism.ucalgary.ca/handle/11023/3878)
 
-
+<hr>
 ## Journal articles
 
 **Mars habitat power consumption constraints, prioritization, and optimization**, *Ansley, B.*, **Engler, S.T.**, *Binsted, K.*, Journal of Space Safety Engineering, Oct 31st, 2019 (In Press) 
@@ -37,6 +37,8 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 [Full Paper](http://doi.org/10.1016/j.jsse.2019.10.006)
 
+<hr>
+
 **HI-SEAS habitat energy requirements and forecasting**, **Engler, S.T.**, *Ansley B, Binsted K*, Acta Astronautica, Volume 162, 2019, Pages 50-55, ISSN 0094-5765, May 31, 2019
 
 **Abstract:** Travel to other planetary bodies represents a major challenge to resource management. Previous manned exploration missions of long duration have been resupplied with food, water, and air as required. Manned missions to other planetary bodies will have durations of years with little to no possibility of resupply. Consequently, monitoring and forecasting resource consumption are mission-critical capabilities. The Hawaii Space Exploration Analog and Simulation, a long-duration planetary analog simulation, has recently completed its fifth long-term isolation mission conducted to assess the energy, food, and water needs of a six-person long-term planetary mission. This study presents a novel method for forecasting energy consumption, which incorporates the emotional state of the habitat crew. Gathered data show inhabitants in small environments can be influenced considerably by the actions of a single member. This can result in dramatic changes in consumption that could cause forecasting models to deviate to the point of total failure. Previous work found that inclusion of the daily activities and the psychological states of the crew allows for higher accuracy in long-duration forecasts. Currently, psychological assessments in the form of a Positive and Negative Affect Schedule and a generalized artificial neural modulation method are used to incorporate emotional response into machine learning forecast methods. Using these techniques and developments, a large-scale smart habitat control and forecasting system is proposed that will monitor, control, and forecast HI-SEAS habitat resources for future HI-SEAS missions. This new system requires the incorporation of psychological and physiological data of the crew, together with information on their activities and schedules.
@@ -49,6 +51,7 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 [Full Paper](http://doi.org/10.1016/j.actaastro.2019.05.049)
 
+<hr>
 
 ## Conference Proceedings
 
@@ -78,6 +81,7 @@ psychological and physiological data from crew members, crew activities, and sch
 
 [Full Paper](iafastro.directory/iac/paper/id/40041/summary/)
 
+<hr>
 
 **Towards Forecasting Resource Consumption In Mars Analog Simulations**, *Engler S., Caraccio A., Binsted K., Leung H.*, Poster presented at The 8th Annual International Mars Conference, CalTech, Pasadena, California, (July 2017)
 
@@ -85,6 +89,8 @@ psychological and physiological data from crew members, crew activities, and sch
 
 [Full Paper](https://www.dropbox.com/s/uhb8p2xci0bce4k/Poster_SimonEngler_48x36.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
 
+
+<hr>
 
 **Robotic Companions for Long Term Isolation Space Missions**, Engler, S.T., Hunter, J., Binsted K., and Leung H., IEEE 15th International Conference on Ubiquitous Robots, Honolulu, HI, 28th June 2018
 
@@ -94,6 +100,7 @@ psychological and physiological data from crew members, crew activities, and sch
 
 [Full Paper](http://ieeexplore.ieee.org/document/8441838)
 
+<hr>
 
 **Planetary Habitat Systems Monitoring On a Mars Analog Mission**, *Engler S., Abrimov O., Binsted K., Hunter J., Leung H.*, 100 Year Starship Symposium: Pathway to the Stars, Footprints on Earth, Houston, TX. (2013)
 
@@ -103,6 +110,7 @@ psychological and physiological data from crew members, crew activities, and sch
 
 [Full Paper](http://www.amazon.com/dp/0990384004/ref=cm_sw_su_dp)
 
+<hr>
 
 **Prairie Dog II: The evolution of an Unmanned Ground Vehicle**, **Engler S.**, *Leung H.*, Unmanned Systems Canada Conference - Canada at the Civil and Commercial Forefront, Halifax, (Nov 2011)
 
@@ -114,7 +122,11 @@ This paper won the "Best Student Paper" competition for this conference. I was t
 
 [Full Paper](https://www.dropbox.com/s/ydkoneso2pgm5ul/PrairieDogEvolution.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
 
+<hr>
+
 ## Technical Reports
+<hr>
+
 
 **Unmanned Ground Vehicle Trials Kandahar Province**, **Engler, S.T.**, 1 Combat Engineer Regiment, Edmonton, Canada, 1st December 2009
 
@@ -132,6 +144,7 @@ outlined
 
 [Full Paper](http://www.dropbox.com/s/jl5k0h59hyooafx/TrialsReport.pdf?dl=0)
 
+<hr>
 
 **Testing Robotic Companions on a Simulated Mission to Mars**, *Engler S.*, IEEE Spectrum online, (2013)
 
@@ -140,8 +153,12 @@ An online article outlining my ongoing robotic companion experiment.
 [Full Paper](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/testing-robotic-companions-on-a-simulated-mission-to-mars?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcuzVJZPcTpuRFD1pwbs3vA%3D%3D)
 
 
+<hr>
+
 **Benchmarking the 2D lattice Boltzmann BGK model**, *Engler S.*, Short communication. Amsterdam Center for Computational Science, Amsterdam, The Netherlands, (2001)
 
 **Abstract:** A 2D Lattice Boltzmann BGK (LBGK) model on a D2Q9 lattice was constructed and tested foraccuracy in different physical situations. An introduction to the LBGK method is given followed by a detailed outline of the computer model construction.  Due to thefact that LBGK models arerestricted to low Reynolds numbers only laminar fluid flow is examined here. The model was tested for accuracy by comparing model output to the analytical solution of flow lines past a right circular cylinder. Next, plane Poiseuille flow through a 2D channel is compared to the analytical fluid flow and pressure solutions.
 
 [Full Paper](https://www.dropbox.com/s/xj76p81nijmznl4/BGK_handin.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
+
+<hr>
