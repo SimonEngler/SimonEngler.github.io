@@ -32,7 +32,8 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 **Contribution:** This is my first paper as second author. I took the role of guiding Ms. Ansley on the papers research direction and provided data. I helped write the documennt and edited. I traveled to Germany to present the paper at the IAC '18 and was the corresponding author when we submitted to the journal. 
 
-**Journal Info:** [Journal Space Safety Engineering](https://www.journals.elsevier.com/journal-of-space-safety-engineering)
+**Journal Info:** 
+[Journal Space Safety Engineering](http://www.journals.elsevier.com/journal-of-space-safety-engineering)
 
 [Full Paper](http://doi.org/10.1016/j.jsse.2019.10.006)
 
