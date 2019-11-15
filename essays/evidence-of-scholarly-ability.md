@@ -2,7 +2,7 @@
 layout: essay  
 type: essay  
 title: Evidence of Scholarly Ability  
-date: 2017-10-17
+date: 2019-11-14
 labels:
   - PhD Portfolio
 ---
