@@ -65,7 +65,7 @@ psychological and physiological data from crew members, crew activities, and sch
 
 I did the vast majority of contribution to this publication relying on my co-authors for general guidance.
 
-[Full Paper](https://iafastro.directory/iac/paper/id/40041/summary/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
+[Full Paper](iafastro.directory/iac/paper/id/40041/summary/)
 
 
 **Towards Forecasting Resource Consumption In Mars Analog Simulations**, *Engler S., Caraccio A., Binsted K., Leung H.*, Poster presented at The 8th Annual International Mars Conference, CalTech, Pasadena, California, (July 2017)
@@ -88,18 +88,18 @@ An online article outlining my ongoing robotic companion experiment.
 
 Primary contribution come from myself where I reduced the bulk of the data and wrote the paper, and presented. Co-author Abramov A. contributed some data and photos. Dr. Binsted, Dr. Hunter, and Dr. Leung provided guildance in the data reduction.
 
-[Full Paper](https://www.amazon.com/dp/0990384004/ref=cm_sw_su_dp?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
+[Full Paper](http://www.amazon.com/dp/0990384004/ref=cm_sw_su_dp)
 
-## Technical Reports
 
-**Prairie Dog II: The evolution of an Unmanned Ground Vehicle**, *Engler S., Leung H.*, Unmanned Systems Canada Conference - Canada at the Civil and Commercial Forefront, Halifax, (Nov 2011)
+**Prairie Dog II: The evolution of an Unmanned Ground Vehicle**, **Engler S.**, *Leung H.*, Unmanned Systems Canada Conference - Canada at the Civil and Commercial Forefront, Halifax, (Nov 2011)
 
-I was the dominant author on this paper having conducted all the research, experimentation, writing and presenting. Dr. Leung contributed with support and guidance.
+This paper won the "Best Student Paper" competition for this conference. I was the dominant author on this paper having conducted all the research, experimentation, writing and presenting. Dr. Leung contributed with support and guidance.
 
 **Abstract:** In a military deployment to Afghanistan in 2009, theauthor built a small UGV, which was nicknamed thePrairie Dog. The Prairie Dog UGV was built withoff the shelf parts and open-source software. InAfghanistan field trials and operational testing ofUGV prototype was conducted. The Prairie DogUGV was evaluated for its compatibility to workwithin the combat environment seen in Afghanistan.The original R&D phase of this robotic platform,and the lessons learned and experiences using theUGV in Afghanistan were utilized in thedevelopment of the second generation of this UGV.The Prairie Dog II UGV, started construction inearly 2011. This new UGV is geared towardsprivate security and experimental R&D.Implementation of new sensors and artificialintelligence developed from the lessons learned inthe Afghanistan application allow for semi-autonomous control for this new UGV. Theintegration of the Robot Operating System (ROS),Microsoft Kinect sensor, and navigationalcapabilities of the UGV will be outlined. Utilizingthe experiences gained from the previous UGVplatform, a road ahead for military and civilianapplications of UGV will be discussed.
 
 [Full Paper](https://www.dropbox.com/s/ydkoneso2pgm5ul/PrairieDogEvolution.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
 
+## Technical Reports
 
 **Benchmarking the 2D lattice Boltzmann BGK model**, *Engler S.*, Short communication. Amsterdam Center for Computational Science, Amsterdam, The Netherlands, (2001)
 
