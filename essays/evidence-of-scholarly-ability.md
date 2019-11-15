@@ -78,12 +78,9 @@ I was the main contributor to this poster creating the poster and collected the 
 
 [Full Paper](https://www.dropbox.com/s/uhb8p2xci0bce4k/Poster_SimonEngler_48x36.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
 
+**Robotic Companions for Long Term Isolation Space Missions**, Engler, S.T., Hunter, J., Binsted K., and Leung H., IEEE 15th International Conference on Ubiquitous Robots, Honolulu, HI, 28th June 2018
 
-**Testing Robotic Companions on a Simulated Mission to Mars**, *Engler S.*, IEEE Spectrum online, (2013)
-
-An online article outlining my ongoing robotic companion experiment.
-
-[Full Paper](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/testing-robotic-companions-on-a-simulated-mission-to-mars?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcuzVJZPcTpuRFD1pwbs3vA%3D%3D)
+[Full Paper](http://ieeexplore.ieee.org/document/8441838)
 
 
 **Planetary Habitat Systems Monitoring On a Mars Analog Mission**, *Engler S., Abrimov O., Binsted K., Hunter J., Leung H.*, 100 Year Starship Symposium: Pathway to the Stars, Footprints on Earth, Houston, TX. (2013)
@@ -120,6 +117,13 @@ operational applications. Finally, future requirements and a direction for furth
 outlined
 
 [Full Paper](http://www.dropbox.com/s/jl5k0h59hyooafx/TrialsReport.pdf?dl=0)
+
+
+**Testing Robotic Companions on a Simulated Mission to Mars**, *Engler S.*, IEEE Spectrum online, (2013)
+
+An online article outlining my ongoing robotic companion experiment.
+
+[Full Paper](https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/testing-robotic-companions-on-a-simulated-mission-to-mars?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BcuzVJZPcTpuRFD1pwbs3vA%3D%3D)
 
 
 **Benchmarking the 2D lattice Boltzmann BGK model**, *Engler S.*, Short communication. Amsterdam Center for Computational Science, Amsterdam, The Netherlands, (2001)
