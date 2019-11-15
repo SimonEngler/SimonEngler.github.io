@@ -21,7 +21,7 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 **Contribution:** I was the main contributor to this Masters thesis under the guidanance of my co-supervisors, Prof. Binsted, and Dr. Leung. 
 
-[Full Paper](http://theses.ucalgary.ca)
+[Full Paper](https://prism.ucalgary.ca/handle/11023/3878)
 
 
 ## Journal articles
@@ -32,7 +32,7 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 **Contribution:** This is my first paper as second author. I took the role of guiding Ms. Ansley on the papers research direction and provided data. I helped write the documennt and edited. I traveled to Germany to present the paper at the IAC '18 and was the corresponding author when we submitted to the journal. 
 
-**Journal Info:** [Journal Space Safety Engineering](https://www.journals.elsevier.com/journal-of-space-safety-engineering_
+**Journal Info:** [Journal Space Safety Engineering](https://www.journals.elsevier.com/journal-of-space-safety-engineering)
 
 [Full Paper](http://doi.org/10.1016/j.jsse.2019.10.006)
 
@@ -80,9 +80,10 @@ psychological and physiological data from crew members, crew activities, and sch
 
 **Towards Forecasting Resource Consumption In Mars Analog Simulations**, *Engler S., Caraccio A., Binsted K., Leung H.*, Poster presented at The 8th Annual International Mars Conference, CalTech, Pasadena, California, (July 2017)
 
-I was the main contributor to this poster creating the poster and collected the majority of the data. My co-author Carracio, A. contributed some data and did some editing to the poster. Dr. Binsted, and Dr. Leung provided guidance.
+**Contribution:** I was the main contributor to this poster creating the poster and collected the majority of the data. My co-author Carracio, A. contributed some data and did some editing to the poster. Dr. Binsted, and Dr. Leung provided guidance.
 
 [Full Paper](https://www.dropbox.com/s/uhb8p2xci0bce4k/Poster_SimonEngler_48x36.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
+
 
 **Robotic Companions for Long Term Isolation Space Missions**, Engler, S.T., Hunter, J., Binsted K., and Leung H., IEEE 15th International Conference on Ubiquitous Robots, Honolulu, HI, 28th June 2018
 
