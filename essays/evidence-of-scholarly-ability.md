@@ -14,12 +14,12 @@ labels:
 
 ## Masters Thesis
 
-**Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method**,*Engler S.*,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
+**Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method**, *Engler S.*, Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
 
 **Abstract:** Human travel to other planetary bodies will have duration of years, with little to no possibility
 of resupply. Consequently, the monitoring and forecasting of resource consumption is a mission critical capability. The actions of a single crew member can heavily influence small environments and throw forecasting models off to the point of total failure. It is hypothesized that the inclusion of variables accounting for daily astronaut activities and psychological state will allow for higher accuracy in forecasting. Utilizing consumption data from the Hawaii Space Exploration Analog Simulation in the form of electricity, and psychological data from the Positive and Negative Affect Schedule, a generalized artificial neural-modulation method is introduced which allows the incorporation of emotional response into machine learning applied to forecasting. It is found that the changes in the activation functions correlate to observed crew behavior, and show significant improvement of forecasting results.
 
-I was the main contributor to this Masters thesis under the guidanance of my co-supervisors, Prof. Binsted, and Dr. Leung. 
+**Contribution:** I was the main contributor to this Masters thesis under the guidanance of my co-supervisors, Prof. Binsted, and Dr. Leung. 
 
 [Full Paper](http://theses.ucalgary.ca)
 
@@ -32,6 +32,8 @@ I was the main contributor to this Masters thesis under the guidanance of my co-
 
 **Contribution:** This is my first paper as second author. I took the role of guiding Ms. Ansley on the papers research direction and provided data. I helped write the documennt and edited. I traveled to Germany to present the paper at the IAC '18 and was the corresponding author when we submitted to the journal. 
 
+**Journal Info:** [Journal Space Safety Engineering](https://www.journals.elsevier.com/journal-of-space-safety-engineering_
+
 [Full Paper](http://doi.org/10.1016/j.jsse.2019.10.006)
 
 **HI-SEAS habitat energy requirements and forecasting**, **Engler, S.T.**, *Ansley B, Binsted K*, Acta Astronautica, Volume 162, 2019, Pages 50-55, ISSN 0094-5765, May 31, 2019 doi.org/10.1016/j.actaastro.2019.05.049
@@ -39,6 +41,9 @@ I was the main contributor to this Masters thesis under the guidanance of my co-
 **Abstract:** Travel to other planetary bodies represents a major challenge to resource management. Previous manned exploration missions of long duration have been resupplied with food, water, and air as required. Manned missions to other planetary bodies will have durations of years with little to no possibility of resupply. Consequently, monitoring and forecasting resource consumption are mission-critical capabilities. The Hawaii Space Exploration Analog and Simulation, a long-duration planetary analog simulation, has recently completed its fifth long-term isolation mission conducted to assess the energy, food, and water needs of a six-person long-term planetary mission. This study presents a novel method for forecasting energy consumption, which incorporates the emotional state of the habitat crew. Gathered data show inhabitants in small environments can be influenced considerably by the actions of a single member. This can result in dramatic changes in consumption that could cause forecasting models to deviate to the point of total failure. Previous work found that inclusion of the daily activities and the psychological states of the crew allows for higher accuracy in long-duration forecasts. Currently, psychological assessments in the form of a Positive and Negative Affect Schedule and a generalized artificial neural modulation method are used to incorporate emotional response into machine learning forecast methods. Using these techniques and developments, a large-scale smart habitat control and forecasting system is proposed that will monitor, control, and forecast HI-SEAS habitat resources for future HI-SEAS missions. This new system requires the incorporation of psychological and physiological data of the crew, together with information on their activities and schedules.
 
 **Contribution:** I was first author and corresponding author on this paper. I wrote the bulk of the document and conducted the data analysis. Ms. Barnard contributed some of her data and a graph. Dr. Binsted provided guidance. 
+
+**Journal Info:** 
+<a href="https://www.scimagojr.com/journalsearch.php?q=12372&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12372" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 [Full Paper](http://doi.org/10.1016/j.actaastro.2019.05.049)
 
