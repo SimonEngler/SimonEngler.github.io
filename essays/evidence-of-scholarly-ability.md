@@ -36,13 +36,14 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 [Full Paper](http://doi.org/10.1016/j.jsse.2019.10.006)
 
-**HI-SEAS habitat energy requirements and forecasting**, **Engler, S.T.**, *Ansley B, Binsted K*, Acta Astronautica, Volume 162, 2019, Pages 50-55, ISSN 0094-5765, May 31, 2019 doi.org/10.1016/j.actaastro.2019.05.049
+**HI-SEAS habitat energy requirements and forecasting**, **Engler, S.T.**, *Ansley B, Binsted K*, Acta Astronautica, Volume 162, 2019, Pages 50-55, ISSN 0094-5765, May 31, 2019
 
 **Abstract:** Travel to other planetary bodies represents a major challenge to resource management. Previous manned exploration missions of long duration have been resupplied with food, water, and air as required. Manned missions to other planetary bodies will have durations of years with little to no possibility of resupply. Consequently, monitoring and forecasting resource consumption are mission-critical capabilities. The Hawaii Space Exploration Analog and Simulation, a long-duration planetary analog simulation, has recently completed its fifth long-term isolation mission conducted to assess the energy, food, and water needs of a six-person long-term planetary mission. This study presents a novel method for forecasting energy consumption, which incorporates the emotional state of the habitat crew. Gathered data show inhabitants in small environments can be influenced considerably by the actions of a single member. This can result in dramatic changes in consumption that could cause forecasting models to deviate to the point of total failure. Previous work found that inclusion of the daily activities and the psychological states of the crew allows for higher accuracy in long-duration forecasts. Currently, psychological assessments in the form of a Positive and Negative Affect Schedule and a generalized artificial neural modulation method are used to incorporate emotional response into machine learning forecast methods. Using these techniques and developments, a large-scale smart habitat control and forecasting system is proposed that will monitor, control, and forecast HI-SEAS habitat resources for future HI-SEAS missions. This new system requires the incorporation of psychological and physiological data of the crew, together with information on their activities and schedules.
 
 **Contribution:** I was first author and corresponding author on this paper. I wrote the bulk of the document and conducted the data analysis. Ms. Barnard contributed some of her data and a graph. Dr. Binsted provided guidance. 
 
 **Journal Info:** 
+
 <a href="https://www.scimagojr.com/journalsearch.php?q=12372&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12372" alt="SCImago Journal &amp; Country Rank"  /></a>
 
 [Full Paper](http://doi.org/10.1016/j.actaastro.2019.05.049)
@@ -72,7 +73,7 @@ a large scale smart habitat control and forecasting system will be proposed that
 and forecast habitat resources for manned missions. This new system will require the incorporation of
 psychological and physiological data from crew members, crew activities, and schedule.
 
-Contribution: I did the vast majority of contribution to this publication relying on my co-authors for general guidance.
+**Contribution:** I did the vast majority of contribution to this publication relying on my co-authors for general guidance.
 
 [Full Paper](iafastro.directory/iac/paper/id/40041/summary/)
 
@@ -85,6 +86,10 @@ I was the main contributor to this poster creating the poster and collected the 
 
 **Robotic Companions for Long Term Isolation Space Missions**, Engler, S.T., Hunter, J., Binsted K., and Leung H., IEEE 15th International Conference on Ubiquitous Robots, Honolulu, HI, 28th June 2018
 
+**Abstract:** We tested robotic companions for their ability to reduce stress and create emotional bonds in the event of a Mars-analog space mission. Two different robotic companion platforms were programmed with aggressive and passive personalities and given to crew members for a three-day evaluation. Surveys and feedback from crew members were used to evaluate the effectiveness of the robots? ability to reduce stress. Personality traits were examined in terms of the robots? ability to create positive interactions with the crew. Utilizing this information, a new behavioral model is proposed that will provide sufficient complexity and adaptability for a robot companion to interact successfully with humans, and to create emotional bonds and mitigate distress in crew members.
+
+**Contribution:** I proposed the experiment and Dr. Hunter helped me design it. I obtained funding for the robotic platforms and conducted the experiment in HI-SEAS. I wrote the conference paper, acted as corresponding author, and presented the work. Dr. Binsted provided support during the experiment. 
+
 [Full Paper](http://ieeexplore.ieee.org/document/8441838)
 
 
@@ -92,7 +97,7 @@ I was the main contributor to this poster creating the poster and collected the 
 
 **Abstract:** The NASA funded HI-SEAS (Hawaii Space Exploration Analog and Simulation) is a planetary surface exploration analog site at ~8500 feet on the Mauna Loa side of the saddle area on the Big Island of Hawaii. This first mission will involve six astronaut-like (in terms of education, experience, and attitude) crew members living in the habitat for 120 days under Mars-exploration conditions. The habitat itself has been outfitted with a variety of real time sensors for water, heat, and energy consumption. This data shows a variety of traits within habitat living conditions that can be utilized for energy and water conservation. This mission started in February and will conclude on August 13th. Data of this type will give a picture of what resources are required for exploration or colonization on other planetary bodies. Future steps for habitat monitoring will be presenting outlining a data fusion model. This model will incorporate fuzzy logic for a centralized intelligent monitoring system.
 
-Primary contribution come from myself where I reduced the bulk of the data and wrote the paper, and presented. Co-author Abramov A. contributed some data and photos. Dr. Binsted, Dr. Hunter, and Dr. Leung provided guildance in the data reduction.
+**Contributions:** Primary contribution come from myself where I reduced the bulk of the data and wrote the paper, and presented. Co-author Abramov A. contributed some data and photos. Dr. Binsted, Dr. Hunter, and Dr. Leung provided guildance in the data reduction.
 
 [Full Paper](http://www.amazon.com/dp/0990384004/ref=cm_sw_su_dp)
 
@@ -102,6 +107,8 @@ Primary contribution come from myself where I reduced the bulk of the data and w
 This paper won the "Best Student Paper" competition for this conference. I was the dominant author on this paper having conducted all the research, experimentation, writing and presenting. Dr. Leung contributed with support and guidance.
 
 **Abstract:** In a military deployment to Afghanistan in 2009, theauthor built a small UGV, which was nicknamed thePrairie Dog. The Prairie Dog UGV was built withoff the shelf parts and open-source software. InAfghanistan field trials and operational testing ofUGV prototype was conducted. The Prairie DogUGV was evaluated for its compatibility to workwithin the combat environment seen in Afghanistan.The original R&D phase of this robotic platform,and the lessons learned and experiences using theUGV in Afghanistan were utilized in thedevelopment of the second generation of this UGV.The Prairie Dog II UGV, started construction inearly 2011. This new UGV is geared towardsprivate security and experimental R&D.Implementation of new sensors and artificialintelligence developed from the lessons learned inthe Afghanistan application allow for semi-autonomous control for this new UGV. Theintegration of the Robot Operating System (ROS),Microsoft Kinect sensor, and navigationalcapabilities of the UGV will be outlined. Utilizingthe experiences gained from the previous UGVplatform, a road ahead for military and civilianapplications of UGV will be discussed.
+
+**Contributions:** I planned, constructed, and tested the robotic platforms in Afghanistan. Dr. Leung guided me on how to write the paper.
 
 [Full Paper](https://www.dropbox.com/s/ydkoneso2pgm5ul/PrairieDogEvolution.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4pWW8fQzSLmDIZrQZ2QyKw%3D%3D)
 
