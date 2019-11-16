@@ -13,7 +13,7 @@ labels:
 
 **Masters of Science in Electrical and Computer Engineering**,*Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
 
-## University of Hawaii Graduate Courses (GPA 3.5)
+## University of Hawaii Graduate Courses (GPA 3.85)
 - ICS 321 Data Storage & Retrieval  
 - ICS 667 HCI Design Methods
 - ICS 690 Seminar  
@@ -29,5 +29,8 @@ labels:
 -  ENEL 657 Detection of Signals in Noise
 -  ENEL 625 Estimation Theory
 -  ENEL 649 Random Variable &S tochastic Proccessing
+
+
+
   
 
