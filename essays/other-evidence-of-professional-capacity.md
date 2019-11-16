@@ -10,20 +10,20 @@ labels:
 *This page presents other evidence of my professional capacity in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio).
 
 ## Teaching Assistant Courses
-ICS 211 Introduction to Computer Science II
-ICS 314 Software Engineering I
-ICS 361 Introduction to Artificial Intelligence Programming 
-ICS 321 Database Systems I
-ICS 462 Artificial Intelligence for Games
-ICS 451 Data Networks (Over 3 consequtive semesters)
+ICS 211 Introduction to Computer Science II <br>
+ICS 314 Software Engineering I <br>
+ICS 361 Introduction to Artificial Intelligence Programming <br> 
+ICS 321 Database Systems I <br>
+ICS 462 Artificial Intelligence for Games <br>
+ICS 451 Data Networks (Over 3 consequtive semesters)  <br>
 
 ## Research 
 I have focuesed most of my efforts in research towards the HI-SEAS experiment. I have been working on my own research into forecasting energy consumption in the habitat and its relationship with the crew emotional state. Thus far I have published:
 
-1 Masters thesis
-2 journal articles (peer review)
-7 Conference papers
-2 Techical Documents
+1 Masters thesis <br>
+2 journal articles (peer review)  <br>
+7 Conference papers  <br>
+2 Techical Documents <br>
 
 
 ### HI-SEAS
