@@ -56,6 +56,7 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 ## Conference Proceedings
 
 [Full Paper](https://simonengler.github.io/images/IAC2018_V1_doc.pdf)
+
 [Presentation](https://simonengler.github.io/images/Engler_IAC_2018.pptx)
 
 **Planetary Exploration Habitat Energy Requirements and Forecasting**. *Engler S., Binsted K., Leung H.*, International Astronautical Congress, IAC-17,C3,3,6,x40041, Advanced Space Power Technologies and Concepts, (Sept 2017).
@@ -83,6 +84,7 @@ psychological and physiological data from crew members, crew activities, and sch
 **Contribution:** I did the vast majority of contribution to this publication relying on my co-authors for general guidance.
 
 [Full Paper](https://simonengler.github.io/images/paperVersion_4.pdf)
+
 [Presentation](https://simonengler.github.io/images/EnglerIAC2017PDF.pdf)
 
 
@@ -94,7 +96,9 @@ psychological and physiological data from crew members, crew activities, and sch
 **Contribution:** I proposed the experiment and Dr. Hunter helped me design it. I obtained funding for the robotic platforms and conducted the experiment in HI-SEAS. I wrote the conference paper, acted as corresponding author, and presented the work. Dr. Binsted provided support during the experiment. 
 
 [Full Paper](https://simonengler.github.io/images/UR18_0114_MS_Final (1).pdf)
+
 [Presentation](https://simonengler.github.io/images/robotCompanionPPT.pptx)
+
 [Poster](https://simonengler.github.io/images/posterUR2018.pdf)
 
 <hr>
