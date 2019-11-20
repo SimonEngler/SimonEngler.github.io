@@ -35,7 +35,7 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 **Journal Info:** 
 [Journal Space Safety Engineering](http://www.journals.elsevier.com/journal-of-space-safety-engineering)
 
-[Full Paper](http://doi.org/10.1016/j.jsse.2019.10.006)
+[Full Paper](https://simonengler.github.io/images/JSSE_submitted_20OCT2019.pdf)
 
 <hr>
 
@@ -49,11 +49,14 @@ of resupply. Consequently, the monitoring and forecasting of resource consumptio
 
 <a href="https://www.scimagojr.com/journalsearch.php?q=12372&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=12372" alt="SCImago Journal &amp; Country Rank"  /></a>
 
-[Full Paper](http://doi.org/10.1016/j.actaastro.2019.05.049)
+[Full Paper](https://simonengler.github.io/images/actaAstronomicaHISEAShabitatForecast.pdf)
 
 <hr>
 
 ## Conference Proceedings
+
+[Full Paper](https://simonengler.github.io/images/IAC2018_V1_doc.pdf)
+[Presentation](https://simonengler.github.io/images/Engler_IAC_2018.pptx)
 
 **Planetary Exploration Habitat Energy Requirements and Forecasting**. *Engler S., Binsted K., Leung H.*, International Astronautical Congress, IAC-17,C3,3,6,x40041, Advanced Space Power Technologies and Concepts, (Sept 2017).
 
@@ -79,26 +82,27 @@ psychological and physiological data from crew members, crew activities, and sch
 
 **Contribution:** I did the vast majority of contribution to this publication relying on my co-authors for general guidance.
 
-[Full Paper](iafastro.directory/iac/paper/id/40041/summary/)
-
-<hr>
-
-**Towards Forecasting Resource Consumption In Mars Analog Simulations**, *Engler S., Caraccio A., Binsted K., Leung H.*, Poster presented at The 8th Annual International Mars Conference, CalTech, Pasadena, California, (July 2017)
-
-**Contribution:** I was the main contributor to this poster creating the poster and collected the majority of the data. My co-author Carracio, A. contributed some data and did some editing to the poster. Dr. Binsted, and Dr. Leung provided guidance.
-
-[Full Paper](https://www.dropbox.com/s/uhb8p2xci0bce4k/Poster_SimonEngler_48x36.pdf?dl=0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFu9TAzq6RGWDg%2B1bhuRM%2Fg%3D%3D)
+[Full Paper](https://simonengler.github.io/images/paperVersion_4.pdf)
+[Presentation](https://simonengler.github.io/images/EnglerIAC2017PDF.pdf)
 
 
 <hr>
-
 **Robotic Companions for Long Term Isolation Space Missions**, Engler, S.T., Hunter, J., Binsted K., and Leung H., IEEE 15th International Conference on Ubiquitous Robots, Honolulu, HI, 28th June 2018
 
 **Abstract:** We tested robotic companions for their ability to reduce stress and create emotional bonds in the event of a Mars-analog space mission. Two different robotic companion platforms were programmed with aggressive and passive personalities and given to crew members for a three-day evaluation. Surveys and feedback from crew members were used to evaluate the effectiveness of the robots? ability to reduce stress. Personality traits were examined in terms of the robots? ability to create positive interactions with the crew. Utilizing this information, a new behavioral model is proposed that will provide sufficient complexity and adaptability for a robot companion to interact successfully with humans, and to create emotional bonds and mitigate distress in crew members.
 
 **Contribution:** I proposed the experiment and Dr. Hunter helped me design it. I obtained funding for the robotic platforms and conducted the experiment in HI-SEAS. I wrote the conference paper, acted as corresponding author, and presented the work. Dr. Binsted provided support during the experiment. 
 
-[Full Paper](http://ieeexplore.ieee.org/document/8441838)
+[Full Paper](https://simonengler.github.io/images/UR18_0114_MS_Final (1).pdf)
+[Presentation](https://simonengler.github.io/images/robotCompanionPPT.pptx)
+[Poster](https://simonengler.github.io/images/posterUR2018.pdf)
+
+<hr>
+**Towards Forecasting Resource Consumption In Mars Analog Simulations**, *Engler S., Caraccio A., Binsted K., Leung H.*, Poster presented at The 8th Annual International Mars Conference, CalTech, Pasadena, California, (July 2017)
+
+**Contribution:** I was the main contributor to this poster creating the poster and collected the majority of the data. My co-author Carracio, A. contributed some data and did some editing to the poster. Dr. Binsted, and Dr. Leung provided guidance.
+
+[Poster](https://simonengler.github.io/images/Poster_SimonEngler_48x36.pdf)
 
 <hr>
 
@@ -108,7 +112,7 @@ psychological and physiological data from crew members, crew activities, and sch
 
 **Contributions:** Primary contribution come from myself where I reduced the bulk of the data and wrote the paper, and presented. Co-author Abramov A. contributed some data and photos. Dr. Binsted, Dr. Hunter, and Dr. Leung provided guildance in the data reduction.
 
-[Full Paper](http://www.amazon.com/dp/0990384004/ref=cm_sw_su_dp)
+[Full Paper](https://simonengler.github.io/images/PlanetaryHabitatMonitoring_draft_2.pdf)
 
 <hr>
 
