@@ -2,7 +2,7 @@
 layout: essay  
 type: essay  
 title: Evidence of Core Competency  
-date: 2017-10-18  
+date: 2019-11-12 
 labels:
   - PhD Portfolio
 ---
@@ -11,7 +11,7 @@ labels:
 
 ## Evidence of MS degree
 
-**Masters of Science in Electrical and Computer Engineering**,*Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*,Engler S.,Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
+**Masters of Science in Electrical and Computer Engineering**, *Forecasting of Energy Requirements for Planetary Exploration Habitats Using a Modulated Neural Activation Method*, Engler S., Master Thesis, University of Calgary, Electrical and Computer Engineering, University of Calgary Library Thesis Vault, (Mar 2017)
 
 ## University of Hawaii Graduate Courses (GPA 3.85)
 - ICS 321 Data Storage & Retrieval  
@@ -28,7 +28,8 @@ labels:
 -  ENEL 619 Information Processing in Sensor Networks
 -  ENEL 657 Detection of Signals in Noise
 -  ENEL 625 Estimation Theory
--  ENEL 649 Random Variable &S tochastic Proccessing
+-  ENEL 649 Random Variable &Stochastic Processing
+
 
 
 
