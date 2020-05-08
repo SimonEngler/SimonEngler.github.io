@@ -15,6 +15,7 @@ labels:
 <div style="margin-top: 10px; " class="ui center aligned grid">
     <div class="middle aligned column">
 <embed src="https://simonengler.github.io/images/literatureReviewFinal.pdf" width="800px" height="1000px" />
+      
   </div>
 </div>
 
